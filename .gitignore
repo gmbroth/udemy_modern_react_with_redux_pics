@@ -1,3 +1,6 @@
+# Garry says:
+*.keys
+
 # Logs
 logs
 *.log
